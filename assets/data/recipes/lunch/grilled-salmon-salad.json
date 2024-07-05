@@ -1,0 +1,70 @@
+{
+    "name": "Grilled Salmon Salad",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "unit": "ounces",
+            "name": "salmon fillet"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "lemon juice"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "mixed greens"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "cherry tomatoes"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "cucumber"
+        },
+        {
+            "quantity": "1/4",
+            "unit": "cup",
+            "name": "red onion"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "feta cheese"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "balsamic vinaigrette"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Brush the salmon fillet with olive oil and season with salt and pepper.",
+        "Grill the salmon for 4-5 minutes on each side, or until cooked through.",
+        "Remove the salmon from the grill and let it rest for a few minutes.",
+        "In a large bowl, combine mixed greens, halved cherry tomatoes, sliced cucumber, and thinly sliced red onion.",
+        "Flake the salmon into bite-sized pieces and add it to the salad.",
+        "Sprinkle feta cheese over the top.",
+        "Drizzle with balsamic vinaigrette and toss gently to combine.",
+        "Serve immediately."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 20,
+        "protein": 40
+    },
+    "description": "A healthy and nutritious grilled salmon salad featuring fresh mixed greens, crunchy vegetables, and a touch of feta cheese, all topped with a light balsamic vinaigrette. Perfect for a refreshing and protein-packed meal.",
+    "cooking_time": "20 minutes",
+    "serving_size": "1 serving",
+    "additional_notes": "For added flavor, marinate the salmon in lemon juice and herbs before grilling. You can also substitute the feta cheese with goat cheese or omit the cheese altogether for a dairy-free option."
+}

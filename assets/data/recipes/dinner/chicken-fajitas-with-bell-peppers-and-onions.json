@@ -1,0 +1,104 @@
+{
+    "name": "Chicken Fajitas with Bell Peppers and Onions",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "pound",
+            "name": "chicken breast, sliced into strips"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "red bell pepper, sliced"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "green bell pepper, sliced"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "yellow bell pepper, sliced"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "onion, sliced"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "chili powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "cumin"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "paprika"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "garlic powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "onion powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "salt"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "black pepper"
+        },
+        {
+            "quantity": "8",
+            "unit": "each",
+            "name": "whole wheat tortillas"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "salsa"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "Greek yogurt (optional)"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium-high heat.",
+        "Add sliced chicken breast to the skillet and cook until no longer pink, about 6-8 minutes.",
+        "Add the bell peppers and onions to the skillet and cook until tender, about 5-7 minutes.",
+        "Sprinkle chili powder, cumin, paprika, garlic powder, onion powder, salt, and black pepper over the chicken and vegetables. Stir well to combine.",
+        "Cook for an additional 2-3 minutes until the spices are well incorporated and fragrant.",
+        "Warm the whole wheat tortillas in a separate pan or in the microwave.",
+        "Serve the chicken and vegetable mixture on the warm tortillas.",
+        "Top with salsa and Greek yogurt if desired."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 45,
+        "protein": 30
+    },
+    "description": "A flavorful and nutritious meal featuring seasoned chicken, colorful bell peppers, and onions served on whole wheat tortillas. Perfect for a balanced and satisfying dinner.",
+    "cooking_time": "30 minutes",
+    "serving_size": "4 servings",
+    "additional_notes": "For a gluten-free option, use corn tortillas instead of whole wheat tortillas. You can also add avocado slices or shredded cheese for extra flavor."
+}

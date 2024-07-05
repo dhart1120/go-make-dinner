@@ -1,0 +1,54 @@
+{
+    "name": "Roast Beef and Horseradish Sandwich",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "unit": "slices",
+            "name": "whole grain bread"
+        },
+        {
+            "quantity": "8",
+            "unit": "ounces",
+            "name": "roast beef"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "horseradish sauce"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "tomato"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "arugula"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "butter"
+        }
+    ],
+    "instructions": [
+        "Spread butter on one side of each slice of whole grain bread.",
+        "Heat a skillet over medium heat and place two slices of bread butter-side down in the skillet.",
+        "Layer the roast beef evenly over both slices of bread in the skillet.",
+        "Spread horseradish sauce over the top of the roast beef.",
+        "Add sliced tomato and arugula on top of the roast beef.",
+        "Place the remaining two slices of bread on top, butter-side up.",
+        "Grill the sandwiches until the bread is golden brown and the roast beef is heated through, about 3-4 minutes per side.",
+        "Remove from skillet, cut the sandwiches in half, and serve immediately."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 40,
+        "protein": 30
+    },
+    "description": "A hearty and flavorful roast beef sandwich with a zesty kick of horseradish sauce, complemented by fresh tomato slices and peppery arugula. Perfect for lunch or a filling snack.",
+    "cooking_time": "10 minutes",
+    "serving_size": "2 servings",
+    "additional_notes": "For a more intense flavor, you can add caramelized onions or a slice of cheese. Serve with a side salad or vegetable sticks for a complete meal."
+}

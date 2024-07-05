@@ -1,0 +1,70 @@
+{
+    "name": "Spinach and Mushroom Breakfast Wrap",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "large eggs"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "fresh spinach"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "sliced mushrooms"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "cherry tomatoes"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "whole grain wrap"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "shredded cheese"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "black pepper"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a skillet over medium heat.",
+        "Add sliced mushrooms and cook until they start to brown.",
+        "Add spinach and cook until wilted.",
+        "In a bowl, whisk the eggs with a pinch of salt and pepper.",
+        "Pour the eggs into the skillet with the mushrooms and spinach. Cook, stirring frequently, until the eggs are scrambled and cooked through.",
+        "Warm the whole grain wrap in a separate pan or microwave.",
+        "Place the scrambled eggs, vegetables, and shredded cheese onto the wrap.",
+        "Top with halved cherry tomatoes.",
+        "Roll up the wrap tightly and serve."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 25,
+        "protein": 20
+    },
+    "description": "A hearty and nutritious breakfast wrap loaded with protein from eggs and cheese, and packed with the goodness of spinach, mushrooms, and cherry tomatoes. Perfect for a quick, satisfying start to your day.",
+    "cooking_time": "15 minutes",
+    "serving_size": "1 serving",
+    "additional_notes": "Feel free to add some hot sauce or salsa for an extra kick of flavor. For a dairy-free option, skip the cheese or use a dairy-free alternative."
+}

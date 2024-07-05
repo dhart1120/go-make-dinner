@@ -1,0 +1,78 @@
+{
+    "name": "Protein-Rich Pumpkin Muffins",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "unit": "cups",
+            "name": "whole wheat flour"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "pumpkin puree"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "unsweetened applesauce"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "maple syrup"
+        },
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "eggs"
+        },
+        {
+            "quantity": "1",
+            "unit": "scoop",
+            "name": "vanilla protein powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "baking soda"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "baking powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "cinnamon"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "nutmeg"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "salt"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350\u00b0F (175\u00b0C) and line a muffin tin with paper liners or grease with non-stick spray.",
+        "In a large bowl, whisk together the whole wheat flour, protein powder, baking soda, baking powder, cinnamon, nutmeg, and salt.",
+        "In a separate bowl, mix the pumpkin puree, applesauce, maple syrup, and eggs until well combined.",
+        "Add the wet ingredients to the dry ingredients and stir until just combined.",
+        "Divide the batter evenly among the prepared muffin cups.",
+        "Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Cool in the pan for 5 minutes, then transfer to a wire rack to cool completely."
+    ],
+    "nutrition_ratio": {
+        "fat": 10,
+        "carbs": 30,
+        "protein": 15
+    },
+    "description": "These protein-rich pumpkin muffins are a nutritious and delicious way to start your day or refuel after a workout. They are moist and flavorful with the perfect balance of protein, carbs, and fats to support your active lifestyle.",
+    "cooking_time": "30 minutes",
+    "serving_size": "12 servings",
+    "additional_notes": "You can add chopped nuts or dark chocolate chips to the batter for added texture and flavor. Store in an airtight container for up to 3 days or freeze for longer storage."
+}

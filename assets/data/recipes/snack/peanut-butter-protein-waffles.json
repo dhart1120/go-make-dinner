@@ -1,0 +1,77 @@
+{
+    "name": "Peanut Butter Protein Waffles",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "whole wheat flour"
+        },
+        {
+            "quantity": "1",
+            "unit": "scoop",
+            "name": "vanilla protein powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "baking powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "baking soda"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "almond milk"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "Greek yogurt"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "egg"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "peanut butter"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "vanilla extract"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "salt"
+        }
+    ],
+    "instructions": [
+        "Preheat your waffle iron according to the manufacturer's instructions.",
+        "In a large bowl, combine the whole wheat flour, protein powder, baking powder, baking soda, and salt.",
+        "In another bowl, whisk together the almond milk, Greek yogurt, egg, peanut butter, and vanilla extract until smooth.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined; do not overmix.",
+        "Lightly coat the waffle iron with cooking spray or oil.",
+        "Pour a portion of the batter into the preheated waffle iron and cook until the waffle is golden brown and cooked through.",
+        "Repeat with the remaining batter.",
+        "Serve the waffles warm, optionally topped with additional peanut butter and fresh fruit."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 40,
+        "protein": 25
+    },
+    "description": "These Peanut Butter Protein Waffles are a delicious and nutritious way to start your day. Packed with protein powder and Greek yogurt, they're perfect for muscle repair and growth. The added peanut butter gives a nutty flavor that pairs perfectly with your favorite toppings.",
+    "cooking_time": "15 minutes",
+    "serving_size": "4 waffles",
+    "additional_notes": [
+        "For an extra boost of protein, add a handful of nuts or seeds to the batter.",
+        "These waffles can be made in advance and frozen for a quick breakfast option during the week."
+    ]
+}

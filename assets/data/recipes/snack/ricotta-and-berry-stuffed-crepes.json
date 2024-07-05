@@ -1,0 +1,80 @@
+{
+    "name": "Ricotta and Berry Stuffed Crepes",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "all-purpose flour"
+        },
+        {
+            "quantity": "1.25",
+            "unit": "cups",
+            "name": "milk"
+        },
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "eggs"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "butter, melted"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "sugar"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "vanilla extract"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "ricotta cheese"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "mixed berries"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "honey"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "lemon zest"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, whisk together the flour, milk, eggs, melted butter, sugar, vanilla extract, and salt until smooth.",
+        "Heat a non-stick skillet over medium heat and lightly coat with cooking spray.",
+        "Pour about 1/4 cup of batter into the skillet, swirling to evenly coat the bottom of the pan.",
+        "Cook until the batter sets and the edges begin to lift from the skillet, about 1-2 minutes.",
+        "Flip the crepe and cook for an additional 1-2 minutes, until lightly golden.",
+        "Repeat with remaining batter.",
+        "In a medium bowl, mix ricotta cheese, honey, and lemon zest until well combined.",
+        "Spoon the ricotta mixture onto each crepe and top with mixed berries.",
+        "Fold the crepes over the filling and serve immediately."
+    ],
+    "nutrition_ratio": {
+        "fat": 15,
+        "carbs": 35,
+        "protein": 20
+    },
+    "description": "Light and delicious crepes filled with a creamy ricotta cheese mixture and fresh berries. Perfect for a special breakfast or brunch.",
+    "cooking_time": "30 minutes",
+    "serving_size": "4 servings",
+    "additional_notes": "You can use any variety of fresh berries such as strawberries, blueberries, raspberries, or blackberries based on your preference and availability."
+}

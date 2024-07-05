@@ -1,0 +1,80 @@
+{
+    "name": "BBQ Chicken with Corn and Coleslaw",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "chicken breasts"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "BBQ sauce"
+        },
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "ears of corn"
+        },
+        {
+            "quantity": "2",
+            "unit": "cups",
+            "name": "shredded cabbage"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "carrot"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "mayonnaise"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "apple cider vinegar"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "honey"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "mustard"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "black pepper"
+        }
+    ],
+    "instructions": [
+        "Preheat grill to medium-high heat.",
+        "Season the chicken breasts with salt and pepper.",
+        "Grill the chicken breasts for 6-7 minutes on each side or until fully cooked.",
+        "In the last 2 minutes of grilling, brush BBQ sauce on both sides of the chicken.",
+        "Boil or grill the ears of corn until tender, about 10-12 minutes.",
+        "Grate the carrot and combine it with the shredded cabbage in a large bowl.",
+        "In a small bowl, mix together mayonnaise, apple cider vinegar, honey, mustard, salt, and black pepper to create the coleslaw dressing.",
+        "Pour the dressing over the cabbage and carrot mixture and toss to coat.",
+        "Serve the BBQ chicken with corn on the side and a portion of coleslaw."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 35,
+        "protein": 30
+    },
+    "description": "A flavorful and balanced meal featuring juicy BBQ chicken, sweet corn, and a tangy coleslaw. Perfect for a summer dinner that's easy and nutritious.",
+    "cooking_time": "30 minutes",
+    "serving_size": "2 servings",
+    "additional_notes": "For added flavor, you can marinate the chicken in the BBQ sauce for an hour before grilling. Feel free to use a store-bought coleslaw mix to save time."
+}

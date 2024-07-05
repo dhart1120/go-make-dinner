@@ -1,0 +1,71 @@
+{
+    "name": "Salmon and Asparagus Frittata",
+    "ingredients": [
+        {
+            "quantity": "6",
+            "unit": "each",
+            "name": "eggs"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "milk"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "asparagus"
+        },
+        {
+            "quantity": "4",
+            "unit": "ounces",
+            "name": "smoked salmon"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "cup",
+            "name": "shredded cheese"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "onion"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "salt"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "black pepper"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 350\u00b0F (175\u00b0C).",
+        "Chop the asparagus and onion into small pieces.",
+        "Heat the olive oil in an oven-safe skillet over medium heat. Add the chopped onion and cook until translucent.",
+        "Add the asparagus to the skillet and cook until tender, about 5 minutes.",
+        "In a large bowl, whisk the eggs, milk, salt, and black pepper together.",
+        "Add the smoked salmon and shredded cheese to the egg mixture and stir to combine.",
+        "Pour the egg mixture into the skillet over the asparagus and onion. Stir gently to distribute the ingredients evenly.",
+        "Cook on the stove for 3-4 minutes until the edges start to set.",
+        "Transfer the skillet to the preheated oven and bake for 15 minutes or until the frittata is fully set and golden brown on top.",
+        "Remove from the oven and let it cool slightly before slicing and serving."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 10,
+        "protein": 30
+    },
+    "description": "A wholesome and protein-rich frittata featuring tender asparagus, savory smoked salmon, and melted cheese. Ideal for a nutritious breakfast or brunch, supporting muscle growth and overall health.",
+    "cooking_time": "30 minutes",
+    "serving_size": "4 servings",
+    "additional_notes": "Feel free to substitute smoked salmon with cooked fresh salmon or other favorite smoked fish. It pairs well with a side salad for a complete meal."
+}

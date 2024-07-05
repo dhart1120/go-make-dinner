@@ -1,0 +1,79 @@
+{
+    "name": "Grilled Shrimp Salad with Mango",
+    "ingredients": [
+        {
+            "quantity": "0.5",
+            "unit": "pound",
+            "name": "shrimp, peeled and deveined"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "mango, diced"
+        },
+        {
+            "quantity": "4",
+            "unit": "cups",
+            "name": "mixed greens"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "red onion, thinly sliced"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "avocado, sliced"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "lime, juiced"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "honey"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "chili powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "pinch",
+            "name": "pepper"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "In a bowl, toss the shrimp with 1 tablespoon of olive oil, chili powder, salt, and pepper.",
+        "Grill the shrimp for 2-3 minutes on each side until they are opaque and cooked through.",
+        "In a small bowl, whisk together the remaining olive oil, lime juice, and honey to make the dressing.",
+        "In a large bowl, combine the mixed greens, diced mango, red onion, and avocado.",
+        "Top the salad with the grilled shrimp.",
+        "Drizzle the dressing over the salad and toss to combine.",
+        "Serve immediately."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 30,
+        "protein": 25
+    },
+    "description": "A refreshing and nutritious salad featuring grilled shrimp, juicy mango, creamy avocado, and mixed greens, topped with a zesty lime-honey dressing. Perfect for a light yet satisfying meal.",
+    "cooking_time": 20,
+    "serving_size": 2,
+    "additional_notes": "For added flavor, you can marinate the shrimp for 15 minutes before grilling. This salad is naturally gluten-free."
+}

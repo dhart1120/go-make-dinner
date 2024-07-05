@@ -1,0 +1,83 @@
+{
+    "name": "Protein-Packed Zucchini Bread",
+    "ingredients": [
+        {
+            "quantity": "1.5",
+            "unit": "cups",
+            "name": "whole wheat flour"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "vanilla protein powder"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "baking powder"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "baking soda"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "salt"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "cinnamon"
+        },
+        {
+            "quantity": "2",
+            "unit": "each",
+            "name": "eggs"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "Greek yogurt"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "cup",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "0.75",
+            "unit": "cup",
+            "name": "honey"
+        },
+        {
+            "quantity": "2",
+            "unit": "cups",
+            "name": "grated zucchini"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "vanilla extract"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 350\u00b0F (175\u00b0C) and grease a 9x5 inch loaf pan.",
+        "In a large bowl, mix together the whole wheat flour, vanilla protein powder, baking powder, baking soda, salt, and cinnamon.",
+        "In a separate bowl, beat the eggs and then add the Greek yogurt, olive oil, honey, grated zucchini, and vanilla extract. Mix well.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.",
+        "Pour the batter into the prepared loaf pan and smooth the top.",
+        "Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Let the bread cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 40,
+        "protein": 30
+    },
+    "description": "A moist and delicious zucchini bread packed with protein to support your fitness goals. Perfect for a post-workout snack or a healthy treat.",
+    "cooking_time": "70 minutes",
+    "serving_size": "12 slices",
+    "additional_notes": "Store the zucchini bread in an airtight container for up to 5 days, or freeze individual slices for a quick grab-and-go option. You can also add nuts or chocolate chips for extra flavor and texture."
+}

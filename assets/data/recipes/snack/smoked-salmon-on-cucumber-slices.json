@@ -1,0 +1,52 @@
+{
+    "name": "Smoked Salmon on Cucumber Slices",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "unit": "large",
+            "name": "cucumber"
+        },
+        {
+            "quantity": "6",
+            "unit": "ounces",
+            "name": "smoked salmon"
+        },
+        {
+            "quantity": "4",
+            "unit": "ounces",
+            "name": "cream cheese"
+        },
+        {
+            "quantity": "2",
+            "unit": "tablespoons",
+            "name": "dill"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "lemon juice"
+        },
+        {
+            "quantity": "0.5",
+            "unit": "teaspoon",
+            "name": "black pepper"
+        }
+    ],
+    "instructions": [
+        "Wash and slice the cucumber into 1/4 inch thick rounds.",
+        "Spread a small amount of cream cheese on each cucumber slice.",
+        "Drizzle lemon juice over the cream cheese.",
+        "Top each slice with a piece of smoked salmon.",
+        "Garnish with dill and a sprinkle of black pepper.",
+        "Serve immediately."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 15,
+        "protein": 25
+    },
+    "description": "A light and refreshing appetizer featuring smoked salmon on cucumber slices, paired with tangy cream cheese and a hint of lemon. Perfect for a quick, nutritious snack that's high in protein.",
+    "cooking_time": 10,
+    "serving_size": 2,
+    "additional_notes": "For added flavor, you can sprinkle some capers or add a thin slice of avocado on top of the smoked salmon."
+}

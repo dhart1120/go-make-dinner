@@ -1,0 +1,78 @@
+{
+    "name": "Spinach and Feta Stuffed Peppers",
+    "ingredients": [
+        {
+            "quantity": "4",
+            "unit": "each",
+            "name": "bell peppers"
+        },
+        {
+            "quantity": "8",
+            "unit": "ounces",
+            "name": "spinach"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "feta cheese"
+        },
+        {
+            "quantity": "1",
+            "unit": "cup",
+            "name": "cooked quinoa"
+        },
+        {
+            "quantity": "1",
+            "unit": "each",
+            "name": "onion"
+        },
+        {
+            "quantity": "2",
+            "unit": "cloves",
+            "name": "garlic"
+        },
+        {
+            "quantity": "1",
+            "unit": "tablespoon",
+            "name": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "unit": "teaspoon",
+            "name": "dried oregano"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "black pepper"
+        },
+        {
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "name": "salt"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375\u00b0F (190\u00b0C).",
+        "Cut the tops off the bell peppers and remove the seeds.",
+        "Chop the onion and mince the garlic.",
+        "In a large skillet, heat the olive oil over medium heat.",
+        "Add the chopped onion and cook until translucent.",
+        "Add the minced garlic and cook for 1 more minute.",
+        "Stir in the spinach and cook until wilted.",
+        "Remove the skillet from heat and stir in the cooked quinoa, feta cheese, dried oregano, black pepper, and salt.",
+        "Stuff each bell pepper with the spinach and feta mixture.",
+        "Place the stuffed peppers in a baking dish and cover with aluminum foil.",
+        "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes until the peppers are tender.",
+        "Serve hot."
+    ],
+    "nutrition_ratio": {
+        "fat": 20,
+        "carbs": 35,
+        "protein": 15
+    },
+    "description": "A nutritious and delicious dinner option featuring bell peppers stuffed with a flavorful mixture of spinach, feta cheese, and quinoa. This dish is perfect for a balanced meal that is high in protein and full of vitamins and minerals.",
+    "cooking_time": "50 minutes",
+    "serving_size": "4 servings",
+    "additional_notes": "For added flavor, consider sprinkling some grated Parmesan cheese on top before baking. You can also use different types of bell peppers such as red, yellow, or orange based on your preference."
+}
